@@ -15,5 +15,7 @@ Bu proje, sunucuları kapanmış olan efsanevi **Online Kafa Topu 1** oyununu of
 ---
  Projeye katkıda bulunmak, APK veya kod yapılarını incelemek isteyen tüm yazılımcı ve tersine mühendislik uzmanlarının katılımına açıktır.
 
- Change.org imza kampanyası:https://c.org/vnHtbRTxgp
+ Change.org imza kampanyası: https://c.org/vnHtbRTxgp
+
+APK dosyası: https://drive.google.com/file/d/1MJuyzGLLs5Hj4p11Qba6-D7rBjj4EN5a/view?usp=drivesdk
 
